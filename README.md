@@ -1,5 +1,5 @@
 # RegressionAanalysis
-# Wine is an alcoholic beverage that has been a most favoured drink for numerous
+ Wine is an alcoholic beverage that has been a most favoured drink for numerous
 occasions for centuries. Wine is made from fermented grapes. The yeast in grapes
 consumes its sugar and breaks down into two compounds i.e ethanol ans carbon
 dioxide. Wine has been further divided into two categories i.e red wine and white
